@@ -35,7 +35,7 @@ Calendário da Copa do Mundo de Futebol 2022
 
 ## 💻 Demonstração
 
-https://wsminelli.github.io/rocketseat-nlw-copa-2022/
+https://irwayne.github.io/nlw-10-copa/
 
 ## 🔖 Layout
 
